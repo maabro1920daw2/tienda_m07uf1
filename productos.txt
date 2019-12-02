@@ -1,0 +1,12 @@
+﻿Pokèmon Ed.Amarilla;car01;35
+Wario Land;car02;40
+Zelda: Links Awakening;car03;100
+Mega Man V;car04;60
+Super Mario Land;car05;50
+Super Mario Land 2;car06;60
+Street Fighter II;car07;75
+Donkey Kong Land;car08;50
+Castlevania II;car09;150
+Tetris;car10;50
+Metroid II: Return of Samus;car11;95
+TMNT: Fall of the Foot Clan;car12;70
